@@ -10377,6 +10377,7 @@ https://jaimefjorge.com/rss.xml
 https://jaimemartinez.nl/feed/
 https://jairojair.com/index.xml
 https://jak2k.eu/feed.xml
+https://jake009.blogspot.com/feeds/posts/default
 https://jake.nyc/rss.xml
 https://jakeadams.net/atom/
 https://jakearchibald.com/posts.rss
@@ -17558,6 +17559,7 @@ https://siek.blogspot.com/feeds/posts/default
 https://sifter.org/~simon/journal/rss.xml
 https://sigh.dev/rss.xml
 https://sigkill.dk/atom.xml
+https://sigmarootpi.com/feed.xml
 https://signalk.org/rss.xml
 https://significant-bits.com/feed/
 https://sigpipe.macromates.com/feed/
@@ -23963,6 +23965,7 @@ https://www.yusuf.fyi/rss.xml
 https://www.yusufaytas.com/feed/
 https://www.yyzkevin.com/feed/
 https://www.zach.be/feed
+https://www.zacharybillman.com/index.xml
 https://www.zacharynielsen.com/notes.xml
 https://www.zachblume.com/rss/
 https://www.zachleat.com/follow/
